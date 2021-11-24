@@ -9,8 +9,8 @@ body:
       label: Library name and version
       description: Name and version of the Library package used
       placeholder: ex. Azure.Storage.Blobs 12.2.0
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
     id: background
     attributes:
